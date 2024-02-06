@@ -8,7 +8,6 @@ include "includes/head.php"
 
     ?>
 
-
     </div>
     <!-- PRODUCT header-->
     <div class="shopping" style="margin: 10px; border-bottom: 4px; font-weight: bold;">
